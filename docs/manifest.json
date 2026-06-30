@@ -1,0 +1,18 @@
+{
+  "name": "소통사주 앱 출시 전 프로모",
+  "short_name": "소통사주",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#06080D",
+  "theme_color": "#5B4B8A",
+  "description": "AI로 쉽게 보는 사주궁합, 소통사주 앱을 미리 만나보세요.",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "og-image.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
